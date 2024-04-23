@@ -1,4 +1,4 @@
-#GiftLand Ecommerce Website
+# GiftLand Ecommerce Website
 
 This is a Ecommerce website created using [Next.js](https://nextjs.org/) and [Sanity.io](sanity.io). It started as a learning project by diving head first and learning by doing. The webpage design was crafted using Canva to bring a personalized touch to the project. 
 
