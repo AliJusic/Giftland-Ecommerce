@@ -1,0 +1,41 @@
+.navbar {
+  /* width: 1000px; */
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+}
+
+.navitems:hover {
+  opacity: 0.8;
+  transition: 0.2s;
+}
+
+.dropDownProfile {
+  position: absolute;
+  top: 4.5rem;
+  right: 1.5rem;
+  width: 120px;
+  pad: 15px;
+  border-radius: 15px;
+  background-color: white;
+  border: 1px solid gray;
+}
+
+.dropDownProfile::before {
+  position: absolute;
+  top: -2rem;
+  /* right: ;
+  width: ;
+  height: ;
+  background-color: ; */
+}
+.background {
+  background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.6)),
+    url("/header.jpg") no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 750px;
+}
