@@ -1,3 +1,5 @@
+**GiftLand Ecommerce Website**
+
 This is a Ecommerce website created using [Next.js](https://nextjs.org/) and [Sanity.io](sanity.io). It started as a learning project by diving head first and learning by doing. The webpage design was crafted using Canva to bring a personalized touch to the project. 
 
 ![giftland 1](giftland1.png)
@@ -24,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Progress
-Project progress has halted but I plan on finishing it. Currently project is missing Cart functionalities and payment processing. I am also planning on revising schemas and optimizing search functionalities. Also revision of search and filter functionality.
+Project progress has halted but I plan on finishing it. Currently project is missing Cart functionalities and payment processing. I am also planning on revising schemas and also revision of search and filter functionality.
 
 ## My experience
 
