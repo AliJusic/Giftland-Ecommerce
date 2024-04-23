@@ -1,8 +1,7 @@
 This is a Ecommerce website created using [Next.js](https://nextjs.org/) and [Sanity.io](sanity.io). It started as a learning project by diving head first and learning by doing.
 
-!([giftland 1](giftland 1.png)
+!([giftland 1](giftland1.png)
 ![giftland2](giftland2.png)
-!(giftland 2)(giftland 2.png)
 
 ## Getting Started
 
