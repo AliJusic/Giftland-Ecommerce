@@ -1,6 +1,7 @@
-This is a Ecommerce website created using [Next.js](https://nextjs.org/) and [Sanity.io](sanity.io). It started as a learning project by diving head first and learning by doing. Design for webpage was my own and it was created using Canva.  
+This is a Ecommerce website created using [Next.js](https://nextjs.org/) and [Sanity.io](sanity.io). It started as a learning project by diving head first and learning by doing. The webpage design was crafted using Canva to bring a personalized touch to the project. 
 
 ![giftland 1](giftland1.png)
+![giftlandshowcase](giftlandshowcase.png)
 ![giftland 2](giftland2.png)
 ![giftland 3](giftland3.png)
 
