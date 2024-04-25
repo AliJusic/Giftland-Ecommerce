@@ -24,6 +24,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 **Note** You have to setup your own Sanity account and upload your own products. Schemas are already provided.
 [Guide](https://www.sanity.io/learn/course/day-one-with-sanity-studio/getting-started). You also have to provide your own Sanity keys to ".env" file.
 
+## Technologies used
+- Nextjs
+- Tailwind
+- Sanity.io 
 
 ## Progress
 Project progress has halted but I plan on finishing it. Currently project is missing Cart functionalities and payment processing. I am also planning on revising schemas and also revision of search and filter functionality.
