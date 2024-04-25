@@ -34,4 +34,4 @@ Project progress has halted but I plan on finishing it. Currently project is mis
 
 ## My experience
 
-During the work on this project I have learned a lot and I had quite fun doing it from design to development phase. Since I started by diving head first I have had a few challenges since I did not know there were better and more efficient ways of doing certain things. Learning by doing has been rewarding, and I'm eager to apply newfound knowledge to enhance the project further.
+During the work on this project I have learned a lot and I had quite fun doing it from design to development phase. Despite encountering challenges along the way, such as discovering more efficient methods and techniques, I found learning by doing to be rewarding. I'm eager to apply newfound knowledge to enhance the project further.
